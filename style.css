@@ -1,0 +1,15 @@
+.gallery{
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.gallery-item{
+    list-style: none;
+}
+
+.gallery-item img{
+    /* height: 300px; */
+    width: 100%;
+}
